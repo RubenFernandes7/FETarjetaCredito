@@ -1,0 +1,15 @@
+#toast-container > div {
+    opacity:1;
+}
+
+.fa-solid{
+    cursor: pointer;
+}
+
+.green-icon{
+    color: #198754
+}
+
+.red-icon{
+    color: #dc3545
+}
